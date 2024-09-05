@@ -36,7 +36,10 @@ body {
 
 .contact-info h1 {
     margin-bottom: 20px;
-    color: #ffffff;
+    font-family: "Merriweather", serif;
+    font-weight: 500;
+    font-style: normal;
+    
 }
 
 .contact-info p {
@@ -83,7 +86,10 @@ body {
 
 .contact-form h2 {
     margin-bottom: 20px;
-    color: #ffffff;
+    color: #130303;
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
 }
 
 .contact-form input, 
